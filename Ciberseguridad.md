@@ -1,111 +1,90 @@
-
 # IFCT0023 - CIBERSEGURIDAD (AF 09 GR 1)
 
-## 1. Gestión de la seguridad en Internet
+---
 
-Protegernos en la red implica conocer los riesgos y aplicar medidas para salvaguardar nuestros dispositivos personales y de trabajo.
+## Introducción
 
-### 1.1. Riesgos principales
+La ciberseguridad es el conjunto de prácticas, tecnologías y procesos diseñados para proteger sistemas, redes y datos frente a ataques, daños o accesos no autorizados. En la actualidad, la protección digital es esencial tanto a nivel personal como profesional. Esta guía recoge los principales riesgos, amenazas, buenas prácticas y recursos para una navegación y uso seguro de la tecnología.
 
-La información de nuestros dispositivos móviles puede ser sustraída por robo o malware. Antes de usar cualquier dispositivo, pregúntate:
+---
 
-**¿Qué pasaría si...**
+## Gestión de la seguridad en Internet
 
-- Perdemos el dispositivo y otros acceden a la información almacenada.
-- Se infecta nuestro dispositivo y se envían correos con información personal a clientes o compañeros.
-- Por nuestra culpa se infecta la red del trabajo.
-- Toda la información de un proyecto se borra de un día para otro.
+### Principales riesgos
 
-### 1.2. Medidas de protección básicas
+- Robo o pérdida de dispositivos y acceso a información sensible.
+- Infección por malware y propagación a otros equipos o redes.
+- Pérdida de información crítica por ataques o errores.
+- Suplantación de identidad y acceso no autorizado.
+
+### Medidas de protección básicas
 
 - Instalar y mantener actualizado un antivirus.
-- Separar las cuentas personales y de trabajo.
-- Realizar conexiones seguras.
-- Utilizar un cortafuegos.
+- Separar cuentas personales y profesionales.
+- Realizar conexiones seguras (HTTPS, VPN).
+- Utilizar cortafuegos.
+- Realizar copias de seguridad periódicas.
+
+---
+
+## Seguridad en dispositivos móviles
+
+- Habilitar localización y borrado remoto (Google Device Locator, iCloud).
+- Cifrar el terminal y la tarjeta SD.
+- Mantener el antivirus actualizado.
+- Apagar el dispositivo cuando no se use.
+- Desactivar Bluetooth si no es necesario.
+- No compartir datos confidenciales por canales inseguros.
 - Realizar copias de seguridad.
 
 ---
 
-## 2. Seguridad en dispositivos móviles
+## Redes sociales y privacidad
 
-Un dispositivo móvil es como un **mini ordenador**: movilidad, conectividad y versatilidad, pero también con riesgos.
-
-### 2.1. Pautas para mantener tus datos seguros
-
-- Habilitar Google Device Locator o iCloud para localizar, bloquear y eliminar el dispositivo en caso de pérdida o robo.
-- En Android, cifrar el terminal y la tarjeta SD.
-- Instalar y mantener actualizado un antivirus.
-- Apagar el dispositivo por la noche si no se utiliza.
-- Desactivar Bluetooth cuando no sea necesario.
-- Ser cauteloso con los datos confidenciales: no facilitarlos en conversaciones, emails o SMS.
-- Hacer copias de seguridad de la información importante.
+- Piensa antes de compartir fotos o comentarios.
+- Comparte solo con personas de confianza.
+- No aceptes solicitudes de desconocidos.
+- Cuidado con imágenes en entornos laborales.
+- Usa contraseñas seguras y cierra sesión tras el uso.
+- Mantén el antivirus actualizado.
 
 ---
 
-## 3. Redes sociales y privacidad
+## Uso seguro y crítico de Internet
 
-Las redes sociales facilitan la comunicación, pero debemos ser cuidadosos con lo que compartimos y con quién.
+### Consejos para compras online
 
-### 3.1. Riesgos y recomendaciones
-
-- Piensa antes de subir fotos o comentarios: ¿pueden comprometer tu privacidad o la de otros?
-- Comparte información solo con personas de confianza.
-- No aceptes solicitudes de amistad de desconocidos.
-- Atención a imágenes en entornos empresariales: podrías mostrar información confidencial.
-- Usa contraseñas seguras, cierra sesiones y mantén el antivirus actualizado.
-
-**Resumen:** Las redes sociales son útiles, pero requieren medidas de seguridad para preservar la intimidad propia y ajena.
-
----
-
-## 4. Uso seguro y crítico de Internet
-
-Hoy en día podemos comprar casi todo por Internet, pero debemos seguir unos consejos mínimos para evitar problemas.
-
-### 4.1. Consejos para comprar por Internet de forma segura
-
-- Asegúrate de que la web identifica al responsable de la tienda y su ubicación.
-- Comprueba que la tienda online es segura y proporciona información sobre consumo y tratamiento de datos personales.
-- Si puedes, utiliza una tarjeta exclusiva para pagos online.
+- Verifica la identidad y ubicación de la tienda.
+- Comprueba la seguridad de la web (https, candado).
+- Usa tarjetas exclusivas para pagos online.
 - Desconfía de ofertas demasiado atractivas.
-- Verifica que tus dispositivos están configurados correctamente y la conexión es segura antes de dar datos personales o de pago.
-- Nunca envíes dinero en efectivo y elige cuidadosamente el medio de pago.
+- Evita enviar dinero en efectivo.
+- Compra solo en conexiones seguras (evita Wi-Fi públicas).
 
-**Recuerda:**
+### Sellos de confianza
 
-- Los comercios de confianza ofrecen mayores garantías.
-- Puedes desistir de una compra o contrato en los 14 días posteriores sin coste alguno, incluidos los gastos de envío.
+- Confianza Online, AENOR Confía, otros sellos de buenas prácticas.
 
-### 4.2. Sellos de confianza
-
-Existen sellos como **Confianza Online** o **AENOR Confía**, otorgados por buenas prácticas, opiniones de clientes, auditorías o certificaciones independientes.
-
-### 4.3. Precauciones generales para compras online
+### Precauciones generales
 
 - Compra a vendedores con buena reputación.
-- Si no conoces la web, asegúrate de que hay alguien de referencia localizable.
-- Busca opiniones de otros usuarios en buscadores, redes sociales y foros.
-- La página debe asegurar la seguridad de la información (URL con **https** y candado).
-- Revisa la política de envío y devolución antes de comprar.
-- Mantén tu dispositivo actualizado y con antivirus.
-- Compra solo en conexiones seguras, evitando Wi-Fi públicas.
-- Conoce los métodos de pago y elige el más adecuado.
-
-**En resumen:**
-
-- Compra solo en páginas seguras y de confianza.
-- Antes de comprar, revisa tu equipo y la red.
-- Elige el método de pago más adecuado.
+- Busca opiniones de otros usuarios.
+- Revisa políticas de envío y devolución.
+- Mantén tu dispositivo actualizado y protegido.
 
 ---
 
-## 5. Videoconferencias y seguridad
+## Videoconferencias y seguridad
 
-El uso de la videoconferencia ha crecido mucho tras la pandemia, debido al teletrabajo, estudio en casa y la comunicación virtual. Es importante aplicar medidas de seguridad y privacidad en las plataformas de videoconferencia.
+- Usa plataformas seguras y actualizadas.
+- Configura la privacidad de las reuniones.
+- No compartas enlaces de acceso públicamente.
+- Utiliza contraseñas para las reuniones.
+- Mantén el software actualizado y revisa los permisos de la aplicación.
 
 ---
 
-## 6. Organismos de referencia en ciberseguridad
+## Organismos de referencia en ciberseguridad
 
 - Oficina de Seguridad del Internauta (OSI)
 - Instituto Nacional de Ciberseguridad (INCIBE)
@@ -113,84 +92,286 @@ El uso de la videoconferencia ha crecido mucho tras la pandemia, debido al telet
 
 ---
 
-## 7. Colaboración ciudadana
+## Colaboración ciudadana
 
-La colaboración ciudadana es fundamental para interceptar fraudes y localizar páginas fraudulentas, mensajes maliciosos y datos robados.
-
----
-
-## 8. Resumen y conclusiones
-
-Ahora somos más conscientes de los peligros en redes y aplicaciones. Disponemos de trucos y consejos para evitar problemas:
-
-- Mantener el equipo protegido y actualizado.
-- Crear contraseñas seguras y cerrar sesión cuando no se use el equipo.
-- Ser cautelosos al navegar, especialmente en redes Wi-Fi públicas.
-- Asegurar la red local y comprobar que las webs usan HTTPS.
-- Usar bloqueadores de publicidad si es necesario.
-- Seguir buenas prácticas en el uso del correo electrónico y compras online.
-- Ser celosos con los datos, hacer copias de seguridad y usar sistemas cloud.
-- Encriptar información sensible y evitar memorias externas para transferir datos.
-- Borrar discos duros con aplicaciones específicas antes de desecharlos.
-- Aplicar medidas de seguridad en dispositivos móviles.
-- Conocer los riesgos de las redes sociales y seguir recomendaciones de uso.
-
-
-**Esperamos que ahora tu información esté más segura y seas consciente de la importancia de la ciberseguridad.**
+- Reporta fraudes, páginas fraudulentas y mensajes maliciosos.
+- Colabora con las autoridades para mejorar la seguridad digital.
 
 ---
 
-## 9. Aspectos legales, regulatorios y éticos de la protección de datos
+## Buenas prácticas y resumen
 
-### 9.1. Datos personales, normativa y derechos asociados
-
-Casi todas nuestras actividades digitales (banca electrónica, compras online, redes sociales, trámites tributarios) implican compartir datos personales. La privacidad es un valor fundamental para los consumidores y las empresas deben proteger adecuadamente estos datos para mantener la confianza.
-
-La Comisión Europea destaca que el RGPD proporciona flexibilidad a las empresas para innovar en el uso de datos personales, siempre protegiendo los derechos fundamentales de los ciudadanos. La protección de datos desde el diseño es un principio esencial que incentiva la innovación y el desarrollo de nuevas tecnologías seguras.
-
-### 9.2. ¿Qué es un reglamento europeo?
-
-Un reglamento europeo:
-- Tiene alcance general y es obligatorio en todos sus elementos.
-- Es aplicable en todos los países de la Unión Europea.
-- No se limita a una institución concreta.
-- Es directamente aplicable y de máximo rango jerárquico.
-
-### 9.3. Reglamento General de Protección de Datos (RGPD)
-
-El RGPD (Reglamento UE 2016/679) relativo a la protección de las personas físicas en el tratamiento de datos personales y la libre circulación de estos datos:
-- Entró en vigor en 2016 y es aplicable desde el 25 de mayo de 2018.
-- Deroga la Directiva 95/46/CE.
-- No requiere transposición al derecho español.
-- La LOPDGDD (Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales) complementa y especifica ciertos apartados del RGPD.
-
-#### Problemas que resuelve el RGPD
-
-Antes del RGPD, la protección de datos en la UE era desigual, lo que generaba inseguridad jurídica y riesgos, especialmente en la actividad online. El RGPD unifica las normas para todas las empresas que operan en la UE, independientemente de su sede.
-
-### 9.4. Derechos de los interesados
-
-El RGPD otorga a las personas físicas (interesados) mayor control sobre sus datos personales mediante derechos clave:
-- Acceso
-- Rectificación
-- Supresión
-- Oposición
-- Limitación del tratamiento
-- Portabilidad
-- Derecho a no ser objeto de decisiones individualizadas
-- Derecho a revocar el consentimiento en cualquier momento
-- Derecho a reclamar ante la autoridad de protección de datos
-
-La Agencia Española de Protección de Datos (AEPD) es la encargada de supervisar el cumplimiento del RGPD y la LOPDGDD en España.
-
-### 9.5. Consentimiento y novedades normativas
-
-El RGPD elimina el consentimiento tácito: ahora debe ser expreso, mediante declaración o acción afirmativa clara. El consentimiento es necesario, por ejemplo, para:
-- Enviar publicidad a un interesado
-- Transferir datos personales a terceros países
-- Realizar perfiles de personas físicas
-
-El reglamento también revisa y amplía los derechos de los interesados respecto a la normativa anterior.
+- Mantén el equipo protegido y actualizado.
+- Usa contraseñas seguras y cierra sesión.
+- Navega con precaución, especialmente en redes públicas.
+- Asegura la red local y verifica el uso de HTTPS.
+- Usa bloqueadores de publicidad si es necesario.
+- Sigue buenas prácticas en correo electrónico y compras online.
+- Haz copias de seguridad y usa sistemas cloud.
+- Encripta información sensible.
+- Borra discos duros antes de desecharlos.
+- Aplica medidas de seguridad en dispositivos móviles.
+- Conoce los riesgos de las redes sociales.
 
 ---
 
+## Aspectos legales, regulatorios y éticos
+
+### Protección de datos personales
+
+- El RGPD regula la protección de datos en la UE.
+- La LOPDGDD complementa el RGPD en España.
+- Principios: privacidad, consentimiento informado, derecho al olvido, portabilidad, rectificación, seguridad, no discriminación, transparencia y derecho a denunciar.
+
+### Derechos asociados a la identidad digital
+
+- Derecho a la privacidad y control de la información.
+- Consentimiento informado para el uso de datos.
+- Derecho al olvido y a la portabilidad de datos.
+- Derecho a la rectificación y seguridad de los datos.
+- Derecho a la no discriminación y a la transparencia.
+- Derecho a denunciar usos indebidos.
+
+---
+
+## Ciberdelitos y amenazas
+
+### Definición de ciberdelito
+
+Un ciberdelito es cualquier actividad ilegal que se realiza a través de sistemas informáticos o Internet, como el robo de datos, fraudes, ataques a sistemas o suplantación de identidad.
+
+### Tipos de malware
+
+#### Virus
+Requieren intervención del usuario para ejecutarse; pueden borrar archivos o dañar el sistema.  
+**Cómo protegerse:**  
+- Mantener el sistema y el antivirus actualizados.
+- No abrir archivos adjuntos sospechosos ni descargar software de fuentes no confiables.
+
+#### Gusanos
+Se propagan automáticamente por la red, sin intervención del usuario.  
+**Cómo protegerse:**  
+- Mantener el sistema operativo y aplicaciones actualizadas.
+- Usar cortafuegos y evitar redes inseguras.
+
+#### Troyanos
+Aparentan ser programas legítimos, pero permiten el acceso al atacante.  
+**Cómo protegerse:**  
+- Descargar software solo de fuentes oficiales.
+- Analizar los archivos con un antivirus antes de ejecutarlos.
+
+#### Rootkits
+Ocultan la presencia de malware y permiten acceso privilegiado.  
+**Cómo protegerse:**  
+- Mantener el sistema actualizado.
+- Utilizar herramientas antimalware especializadas para detectar rootkits.
+
+#### Backdoors (puertas traseras)
+Facilitan el acceso remoto no autorizado.  
+**Cómo protegerse:**  
+- Mantener el software actualizado.
+- Cambiar contraseñas predeterminadas y usar autenticación fuerte.
+
+#### Spyware
+Monitoriza la actividad del usuario y roba información.  
+**Cómo protegerse:**  
+- Instalar y actualizar antispyware.
+- No descargar programas de sitios no verificados.
+
+#### Adware
+Muestra publicidad no deseada, puede ralentizar el equipo.  
+**Cómo protegerse:**  
+- Evitar instalar software gratuito de dudosa procedencia.
+- Usar bloqueadores de anuncios y analizar el sistema regularmente.
+
+#### Drive-by download
+Descarga e instala malware sin conocimiento del usuario.  
+**Cómo protegerse:**  
+- Mantener el navegador y plugins actualizados.
+- Evitar visitar sitios web sospechosos.
+
+#### Keyloggers
+Analizan y registran las pulsaciones del teclado, permitiendo el robo de contraseñas y datos bancarios.  
+**Cómo protegerse:**  
+- Mantener el sistema y el antivirus actualizados.
+- No instalar software desconocido.
+
+#### Stealers
+Roban información guardada en el equipo, como contraseñas o datos privados.  
+**Cómo protegerse:**  
+- Usar gestores de contraseñas seguros.
+- Mantener el sistema protegido y actualizado.
+
+#### Dialers
+Realizan llamadas a números de alto coste sin consentimiento del usuario.  
+**Cómo protegerse:**  
+- No instalar programas desconocidos.
+- Desconectar el módem cuando no se use.
+
+#### Ransomware
+Bloquea o cifra archivos y solicita un rescate para recuperarlos.  
+**Cómo protegerse:**  
+- Realizar copias de seguridad periódicas.
+- No abrir enlaces ni archivos sospechosos.
+- Mantener el sistema y el antivirus actualizados.
+
+### Principales amenazas y técnicas de ataque
+
+#### Phishing
+Suplantación de identidad para obtener datos personales o bancarios.  
+**Cómo protegerse:**  
+- No hacer clic en enlaces sospechosos ni descargar archivos adjuntos de remitentes desconocidos.  
+- Verificar la dirección de correo y la URL antes de introducir datos.  
+- Contactar directamente con la empresa si se duda de la autenticidad del mensaje.  
+- No reutilizar contraseñas y utilizar gestores de contraseñas.
+
+#### Ataques DDoS
+Saturación de servicios online para dejarlos inoperativos, usando múltiples sistemas (botnets).  
+**Cómo protegerse:**  
+- Utilizar servicios de mitigación DDoS y mantener la infraestructura actualizada.
+
+#### Amenazas Persistentes Avanzadas (APT)
+Ataques dirigidos y prolongados, normalmente contra empresas, para robar información sensible.  
+**Cómo protegerse:**  
+- Implementar medidas de seguridad avanzadas y monitorización continua.
+
+#### Ingeniería social
+Manipulación o engaño para obtener información personal o acceso a sistemas.  
+**Cómo protegerse:**  
+- Ser precavido ante solicitudes de información, incluso si parecen legítimas.
+
+#### Spear phishing
+Phishing dirigido a una persona o entidad concreta.
+
+#### Baiting
+Uso de dispositivos infectados (USB, etc.) o anuncios falsos para infectar equipos.  
+**Cómo protegerse:**  
+- No conectar dispositivos desconocidos y desconfiar de promociones sospechosas.
+
+#### Shoulder surfing
+Espiar físicamente a una persona para obtener información.  
+**Cómo protegerse:**  
+- Evitar introducir datos sensibles en lugares públicos y usar filtros de privacidad en pantallas.
+
+#### Dumpster diving
+Buscar información en la basura física o digital.  
+**Cómo protegerse:**  
+- Triturar documentos y borrar de forma segura la información digital.
+
+#### Spam
+Envío masivo de mensajes no solicitados, a menudo con fines comerciales o maliciosos.  
+**Cómo protegerse:**  
+- Configurar filtros antispam y no usar el correo principal en registros dudosos.
+
+#### Fraude online
+Estafas de todo tipo, desde tiendas falsas hasta soporte técnico fraudulento.  
+**Cómo protegerse:**  
+- Desconfiar de ofertas demasiado buenas y verificar siempre la legitimidad de los sitios.
+
+#### Ataques a conexiones
+Interceptar comunicaciones en redes Wi-Fi, ataques Man-in-the-Middle, redes trampa, sniffing, etc.  
+**Cómo protegerse:**  
+- Usar redes seguras, VPN y evitar redes Wi-Fi públicas abiertas.
+
+#### Redes trampa (Evil Twin)
+Creación de redes Wi-Fi falsas para captar datos de los usuarios.  
+**Cómo protegerse:**  
+- Verificar el nombre de la red y evitar conectarse a redes abiertas o duplicadas.
+
+#### Ataques a cookies
+Robo o manipulación de cookies para acceder a información de navegación.  
+**Cómo protegerse:**  
+- Navegar siempre con HTTPS, eliminar cookies periódicamente y usar el modo incógnito.
+
+#### Inyección SQL
+Inserción de código malicioso en bases de datos a través de formularios web inseguros.  
+**Cómo protegerse (usuarios):**  
+- Poco se puede hacer, depende de la seguridad del servicio web.  
+**Cómo protegerse (desarrolladores):**  
+- Validar y sanear todas las entradas de usuario y seguir buenas prácticas de desarrollo seguro.
+
+#### Spoofing
+Suplantación de identidad digital o de entidades para obtener acceso o información.  
+**Cómo protegerse:**  
+- Revisar cuidadosamente las URLs y certificados digitales, y desconfiar de webs sin HTTPS.
+
+---
+
+### Caso real: WannaCry
+
+En mayo de 2017, el ransomware WannaCry infectó más de 300,000 equipos en 150 países, afectando hospitales, fábricas y servicios públicos. Aprovechó una vulnerabilidad en sistemas Windows no actualizados. El ataque fue detenido parcialmente gracias a la acción de un investigador que activó un "interruptor de emergencia" en el código del malware. Este caso resalta la importancia de mantener los sistemas actualizados y realizar copias de seguridad.
+
+---
+
+## Herramientas y recursos recomendados
+
+- Antivirus y antimalware actualizados.
+- Cortafuegos personales y de red.
+- Bloqueadores de publicidad y ventanas emergentes.
+- Gestores de contraseñas.
+- Herramientas de cifrado de datos.
+- Plataformas de formación en ciberseguridad (INCIBE, OSI, AEPD).
+
+---
+
+## Glosario básico
+
+### A
+- **Adware**: Software que muestra publicidad no deseada.
+- **APT**: Amenaza Persistente Avanzada.
+
+### B
+- **Backdoor (puerta trasera)**: Acceso oculto y no autorizado a un sistema.
+- **Baiting**: Técnica de ingeniería social que utiliza dispositivos o anuncios falsos para infectar equipos.
+- **Botnet**: Red de dispositivos infectados controlados por un atacante.
+
+### D
+- **Dialer**: Programa que realiza llamadas a números de alto coste sin permiso.
+- **Drive-by download**: Descarga automática de malware al visitar una web.
+- **Dumpster diving**: Búsqueda de información confidencial en la basura física o digital.
+
+### E
+- **Evil Twin**: Red Wi-Fi falsa que suplanta a una legítima para robar datos.
+
+### F
+- **Firewall (cortafuegos)**: Sistema que controla el tráfico de red para proteger dispositivos.
+
+### G
+- **Gusano**: Malware que se propaga automáticamente por redes.
+
+### I
+- **Inyección SQL**: Técnica que consiste en insertar código malicioso en una base de datos a través de formularios web inseguros.
+
+### K
+- **Keylogger**: Programa que registra las pulsaciones del teclado.
+
+### M
+- **Malware**: Software malicioso diseñado para dañar o robar información.
+
+### P
+- **Phishing**: Técnica de engaño para obtener datos personales.
+
+### R
+- **Ransomware**: Malware que secuestra datos y pide rescate.
+- **Rootkit**: Software que oculta la presencia de malware.
+
+### S
+- **Shoulder surfing**: Técnica de espionaje visual para obtener información.
+- **Spam**: Mensajes no solicitados, generalmente de tipo publicitario o malicioso.
+- **Spoofing**: Suplantación de identidad digital.
+- **Spyware**: Programa que espía la actividad del usuario.
+- **Stealer**: Malware diseñado para robar información almacenada.
+
+### T
+- **Troyano**: Programa malicioso que se oculta como software legítimo.
+
+### V
+- **VPN**: Red privada virtual que cifra la conexión a Internet.
+
+---
+
+## Conclusión
+
+La ciberseguridad es responsabilidad de todos. Adoptar buenas prácticas, conocer los riesgos y estar informados sobre la normativa vigente es esencial para proteger nuestra información y garantizar una experiencia digital segura. Mantente alerta, actualiza tus sistemas y comparte el conocimiento para crear un entorno digital más seguro.
+
+---
