@@ -1,6 +1,7 @@
-Guía de Estudio de Ciberseguridad: Fundamentos, Amenazas y Buenas Prácticas
 
-1.0 Introducción a la Ciberseguridad
+# Guía de Estudio de Ciberseguridad: Fundamentos, Amenazas y Buenas Prácticas
+
+## 1.0 Introducción a la Ciberseguridad
 
 La ciberseguridad se define como el conjunto de prácticas, tecnologías y procesos diseñados para proteger sistemas, redes y datos frente a ataques, daños o accesos no autorizados. En el contexto digital actual, donde gran parte de nuestras vidas y operaciones profesionales se desarrollan en línea, la protección digital ha dejado de ser una opción para convertirse en una necesidad estratégica fundamental.
 
@@ -8,11 +9,13 @@ El propósito de esta guía es recopilar y estructurar los principales riesgos, 
 
 Para navegar con confianza en el vasto océano digital, es imprescindible adoptar un rol activo en la gestión de nuestra propia seguridad, comenzando por las interacciones más básicas y cotidianas que realizamos en Internet.
 
-2.0 Gestión de la Seguridad en el Entorno Digital Personal
+
+## 2.0 Gestión de la Seguridad en el Entorno Digital Personal
 
 La protección digital comienza en nuestro propio entorno, con los dispositivos y plataformas que utilizamos a diario. Establecer una base sólida de seguridad en nuestros equipos y cuentas es el primer paso y el más crucial para mitigar riesgos. La gestión proactiva de la seguridad personal no es una tarea única, sino un hábito continuo que nos protege de la mayoría de las amenazas comunes.
 
-2.1 Principales Riesgos en la Gestión de Internet
+
+### 2.1 Principales Riesgos en la Gestión de Internet
 
 Nuestra interacción constante con el entorno digital nos expone a una serie de riesgos que pueden tener consecuencias significativas si no se gestionan adecuadamente. Los principales son:
 
@@ -21,7 +24,8 @@ Nuestra interacción constante con el entorno digital nos expone a una serie de 
 * Pérdida de información crítica: Los ataques deliberados, como el ransomware, o los fallos técnicos pueden provocar la pérdida irrecuperable de datos críticos, desde documentos de trabajo hasta recuerdos personales insustituibles.
 * Suplantación de identidad: El acceso no autorizado a nuestras cuentas puede permitir a un atacante actuar en nuestro nombre, cometiendo fraudes, dañando nuestra reputación o accediendo a servicios de forma ilícita.
 
-2.2 Medidas de Protección Fundamentales
+
+### 2.2 Medidas de Protección Fundamentales
 
 Para contrarrestar los riesgos mencionados, es vital implementar un conjunto de medidas de protección básicas que actúen como nuestra primera línea de defensa:
 
@@ -31,7 +35,8 @@ Para contrarrestar los riesgos mencionados, es vital implementar un conjunto de 
 4. Cortafuegos (Firewall): Activar y configurar correctamente el cortafuegos del sistema operativo o de la red ayuda a controlar el tráfico entrante y saliente, bloqueando intentos de acceso no autorizados.
 5. Copias de seguridad periódicas: Realizar copias de seguridad de la información importante de manera regular es la medida más eficaz para recuperarse de un incidente de pérdida de datos, ya sea por un ataque de ransomware, un fallo de hardware o un error humano.
 
-2.3 Seguridad Específica para Dispositivos Móviles
+
+### 2.3 Seguridad Específica para Dispositivos Móviles
 
 Los smartphones y tablets contienen una cantidad ingente de información personal y profesional, por lo que su protección es prioritaria. A continuación, se detallan medidas específicas para estos dispositivos:
 
@@ -46,7 +51,8 @@ Los smartphones y tablets contienen una cantidad ingente de información persona
   * No compartir datos confidenciales a través de canales de comunicación inseguros (como redes Wi-Fi públicas sin VPN).
   * Realizar copias de seguridad de la información almacenada en el dispositivo de forma periódica.
 
-2.4 Privacidad y Buenas Prácticas en Redes Sociales
+
+### 2.4 Privacidad y Buenas Prácticas en Redes Sociales
 
 Las redes sociales son una extensión de nuestra identidad digital y requieren una gestión consciente de la privacidad para evitar la sobreexposición y los riesgos asociados.
 
@@ -59,11 +65,13 @@ Las redes sociales son una extensión de nuestra identidad digital y requieren u
 
 Una vez asegurados nuestros dispositivos y cuentas personales, es crucial aplicar precauciones adicionales en actividades específicas en línea que conllevan sus propios riesgos, como las compras por internet o la participación en videoconferencias.
 
-3.0 Prácticas Seguras en Actividades Específicas en Línea
+
+## 3.0 Prácticas Seguras en Actividades Específicas en Línea
 
 Más allá de la seguridad general de nuestros dispositivos, ciertas actividades en línea presentan riesgos únicos que demandan un nivel adicional de atención y precaución. Realizar compras, participar en reuniones virtuales o gestionar nuestras finanzas online requiere una conciencia situacional para identificar y evitar posibles fraudes, proteger nuestra información financiera y garantizar la confidencialidad de nuestras comunicaciones.
 
-3.1 Uso Seguro y Crítico en Compras Online
+
+### 3.1 Uso Seguro y Crítico en Compras Online
 
 Realizar compras por Internet ofrece comodidad, pero también expone al usuario a fraudes si no se toman las medidas adecuadas.
 
@@ -78,7 +86,8 @@ Es recomendable buscar Sellos de Confianza en los sitios web, que certifican que
 
 Adicionalmente, es fundamental adoptar precauciones generales como comprar únicamente a vendedores con una buena reputación consolidada, buscar opiniones y valoraciones de otros usuarios, y revisar detenidamente las políticas de envío y devolución. Es igualmente importante mantener el dispositivo desde el que se realiza la compra actualizado y protegido con las últimas medidas de seguridad.
 
-3.2 Seguridad en Videoconferencias
+
+### 3.2 Seguridad en Videoconferencias
 
 El uso extendido de las videoconferencias para el trabajo y la comunicación personal ha abierto nuevas vías para posibles intrusiones si no se configuran correctamente.
 
@@ -90,11 +99,13 @@ El uso extendido de las videoconferencias para el trabajo y la comunicación per
 
 La protección en actividades específicas se fundamenta en la precaución, pero una defensa verdaderamente efectiva requiere también comprender las herramientas y tácticas concretas que utilizan los ciberdelincuentes.
 
-4.0 El Panorama de las Ciberamenazas y Ciberdelitos
+
+## 4.0 El Panorama de las Ciberamenazas y Ciberdelitos
 
 Para construir una defensa digital efectiva, es indispensable comprender no solo cómo protegerse, sino también la naturaleza de los ataques. Conocer las motivaciones, herramientas y técnicas de los adversarios permite anticipar sus movimientos y reconocer las señales de alerta. Esta sección desglosa las principales herramientas del ciberdelito, como el malware, y las tácticas de ataque más comunes, desde el engaño de la ingeniería social hasta los asaltos técnicos más sofisticados.
 
-4.1 Definición y Tipos de Malware
+
+### 4.1 Definición y Tipos de Malware
 
 Un ciberdelito se define como cualquier actividad ilegal que se realiza a través de sistemas informáticos o Internet, abarcando desde el robo de datos y los fraudes financieros hasta los ataques directos a sistemas o la suplantación de identidad. El malware (software malicioso) es una de las herramientas fundamentales para perpetrar estos delitos.
 
@@ -112,7 +123,8 @@ Stealers	Se especializan en robar información ya guardada en el equipo, como co
 Dialers	Programas que, sin consentimiento del usuario, realizan llamadas a números de tarificación especial, generando altos costes en la factura telefónica.	No instalar programas desconocidos. Desconectar el módem cuando no se use (en conexiones antiguas).
 Ransomware	Cifra los archivos del usuario o bloquea el acceso al sistema por completo, exigiendo el pago de un rescate para restaurar el acceso.	Realizar copias de seguridad periódicas. No abrir enlaces ni archivos sospechosos. Mantener sistema y antivirus actualizados.
 
-4.2 Principales Amenazas y Técnicas de Ataque
+
+### 4.2 Principales Amenazas y Técnicas de Ataque
 
 Además del malware, los ciberdelincuentes emplean diversas técnicas para comprometer la seguridad de los usuarios y las organizaciones.
 
@@ -133,7 +145,8 @@ Ataques a cookies	Robo o manipulación de las cookies del navegador para suplant
 Inyección SQL	Ataque dirigido a bases de datos a través de formularios web inseguros, insertando código malicioso para extraer, modificar o eliminar información.	Como usuario, la protección depende de la seguridad del servicio web. Los desarrolladores deben validar y sanear todas las entradas.
 Spoofing	Suplantación de una identidad digital (dirección de correo, IP, etc.) o de una entidad (web falsa) para engañar al usuario y obtener acceso o información.	Revisar cuidadosamente las URLs y los certificados digitales de las webs. Desconfiar de sitios sin HTTPS.
 
-4.3 Caso de Estudio: El Impacto de WannaCry
+
+### 4.3 Caso de Estudio: El Impacto de WannaCry
 
 En mayo de 2017, el mundo fue testigo de uno de los ciberataques más disruptivos de la historia reciente: el ransomware WannaCry. Este malware se propagó a una velocidad sin precedentes, infectando más de 300,000 equipos en 150 países en cuestión de días.
 
@@ -146,11 +159,13 @@ La lección clave de WannaCry es doble: subraya la importancia crítica de mante
 
 El conocimiento de estas amenazas se complementa con el entendimiento del marco legal y ético que protege a los usuarios y define sus derechos y responsabilidades en el ecosistema digital.
 
-5.0 Marco Legal, Ético y de Colaboración
+
+## 5.0 Marco Legal, Ético y de Colaboración
 
 La ciberseguridad no opera en un vacío técnico; está intrínsecamente ligada a un marco legal y ético robusto, diseñado para proteger los derechos fundamentales de los ciudadanos en el entorno digital. Esta estructura normativa establece las reglas sobre cómo se deben tratar los datos personales y define las responsabilidades de las organizaciones, al tiempo que empodera a los individuos con derechos claros sobre su información.
 
-5.1 Protección de Datos Personales y Derechos Digitales
+
+### 5.1 Protección de Datos Personales y Derechos Digitales
 
 En Europa, la protección de la información personal es un derecho fundamental. Las dos normativas clave que articulan este derecho son:
 
@@ -178,7 +193,8 @@ A su vez, estos principios otorgan a los ciudadanos una serie de derechos digita
 * Derecho a la no discriminación y a la transparencia: El derecho a no ser discriminado por el uso de algoritmos y a ser informado de manera clara sobre cómo se utilizarán los datos.
 * Derecho a denunciar usos indebidos: El derecho a denunciar el tratamiento ilícito de la información ante las autoridades competentes, como la Agencia Española de Protección de Datos (AEPD).
 
-5.2 Colaboración Ciudadana
+
+### 5.2 Colaboración Ciudadana
 
 La seguridad en el entorno digital es una responsabilidad compartida. La colaboración activa de los ciudadanos es un pilar fundamental para crear un ecosistema más seguro para todos. Las autoridades y organismos de ciberseguridad dependen en gran medida de la información proporcionada por los usuarios para identificar y neutralizar amenazas.
 
@@ -189,11 +205,13 @@ Los ciudadanos pueden contribuir de forma significativa realizando acciones espe
 
 Este marco legal y colaborativo sienta las bases para una cultura de la seguridad, que se materializa en la adopción de prácticas y herramientas concretas en nuestro día a día.
 
-6.0 Resumen de Buenas Prácticas y Recursos de Apoyo
+
+## 6.0 Resumen de Buenas Prácticas y Recursos de Apoyo
 
 Llegados a este punto, es el momento de consolidar el conocimiento adquirido en un compendio práctico que sirva como referencia para la acción diaria. La teoría sobre amenazas y normativas es fundamental, pero la ciberseguridad efectiva se logra traduciendo ese conocimiento en la adopción de hábitos consistentes y el uso de herramientas adecuadas. Esta sección resume las prácticas esenciales y los recursos clave para fortalecer nuestra postura de seguridad.
 
-6.1 Decálogo de Buenas Prácticas en Ciberseguridad
+
+### 6.1 Decálogo de Buenas Prácticas en Ciberseguridad
 
 1. Protege y actualiza tus equipos constantemente: Mantén siempre el sistema operativo, las aplicaciones y el antivirus actualizados para protegerte de las últimas vulnerabilidades conocidas.
 2. Utiliza contraseñas robustas y gestiónalas bien: Crea contraseñas largas, complejas y únicas para cada servicio. Utiliza un gestor de contraseñas para almacenarlas de forma segura y cierra siempre la sesión al terminar.
@@ -206,7 +224,8 @@ Llegados a este punto, es el momento de consolidar el conocimiento adquirido en 
 9. Aplica medidas específicas en dispositivos móviles: Utiliza el bloqueo de pantalla, cifra tus datos y habilita la localización y el borrado remoto en caso de pérdida o robo.
 10. Cifra la información sensible y bórrala de forma segura: Utiliza herramientas de cifrado para proteger tus datos más importantes y asegúrate de borrar de forma permanente los discos duros antes de desecharlos.
 
-6.2 Herramientas y Recursos Recomendados
+
+### 6.2 Herramientas y Recursos Recomendados
 
 * Antivirus y antimalware: Software esencial para detectar, bloquear y eliminar código malicioso.
 * Cortafuegos (Firewall): Tanto personales (en el sistema operativo) como de red (en el router) para controlar el tráfico de red.
@@ -215,7 +234,8 @@ Llegados a este punto, es el momento de consolidar el conocimiento adquirido en 
 * Herramientas de cifrado de datos: Software para cifrar discos duros, carpetas o archivos individuales y proteger la información confidencial.
 * Plataformas de formación y concienciación: Portales de organismos oficiales que ofrecen guías y recursos educativos (ej. INCIBE, OSI, AEPD).
 
-6.3 Organismos de Referencia
+
+### 6.3 Organismos de Referencia
 
 Para mantenerse informado y obtener ayuda, es recomendable acudir a las fuentes oficiales:
 
@@ -225,7 +245,8 @@ Para mantenerse informado y obtener ayuda, es recomendable acudir a las fuentes 
 
 Con estas prácticas y recursos, estamos mejor equipados para afrontar los desafíos del entorno digital y contribuir a un ciberespacio más seguro.
 
-7.0 Conclusión: La Ciberseguridad como Responsabilidad Compartida
+
+## 7.0 Conclusión: La Ciberseguridad como Responsabilidad Compartida
 
 La idea central que se debe extraer de esta guía es clara e inequívoca: la ciberseguridad es una responsabilidad compartida que nos concierne a todos. En un mundo interconectado, la seguridad de cada individuo contribuye a la seguridad del ecosistema digital en su conjunto. Un eslabón débil puede comprometer a toda una cadena, ya sea en el ámbito familiar, social o profesional.
 
@@ -233,7 +254,8 @@ Para garantizar una experiencia digital segura y proteger nuestra información, 
 
 El llamado a la acción es simple pero poderoso: mantente alerta, actualiza tus sistemas sin demora y comparte el conocimiento adquirido. Al hacerlo, no solo te proteges a ti mismo, sino que también ayudas a construir un entorno digital más resiliente y seguro para todos.
 
-8.0 Glosario de Términos Clave
+
+## 8.0 Glosario de Términos Clave
 
 * Adware: Software que muestra publicidad no deseada.
 * APT: Amenaza Persistente Avanzada.
