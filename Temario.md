@@ -484,7 +484,7 @@ Supervisar y proteger el tráfico de datos es clave para evitar accesos no autor
 ### Firewall
 
 El firewall es esencial para controlar y filtrar el tráfico entre tu dispositivo y el exterior:
-- Actívalo en el sistema operativo y/o en el router.
+- Activarlo en el sistema operativo y/o en el router.
 - Configura reglas para permitir solo el tráfico necesario.
 - Mantén el firewall actualizado y revisa las alertas de acceso sospechoso.
 - En empresas, utiliza firewalls avanzados para segmentar redes y proteger áreas sensibles.
